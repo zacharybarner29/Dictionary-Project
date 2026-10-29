@@ -15,4 +15,4 @@ When the user wanted to add a new player, they needed to add all of their statis
 ## What I'd Improve With More Time
 I would have made the program's outputs more visually appealing and given the user their available options for each calculation, rather than assuming they knew them.
 
-Made by Zachary Barnner — https://github.com/zacharybarner29 
+Made by Zachary Barner — https://github.com/zacharybarner29 
